@@ -6,11 +6,10 @@
         "_  "
     ],
     "key": {
-        "_": { "item": "minecraft:paper" },
-        "#": { "item": "minecraft:string" }
+        "_": "minecraft:paper",
+        "#": "minecraft:string"
     },
     "result": {
-        "item": "minecraft:name_tag",
-        "count": 1
+        "id": "minecraft:name_tag"
     }
 }

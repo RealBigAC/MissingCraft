@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " PP",
+        " HP",
+        "R  "
+    ],
+    "key": {
+        "P": { "item": "minecraft:prismarine_crystals" },
+        "H": { "item": "minecraft:heart_of_the_sea" },
+        "R": { "item": "minecraft:breeze_rod" }
+    },
+    "result": {
+        "item": "minecraft:trident"
+    }
+}

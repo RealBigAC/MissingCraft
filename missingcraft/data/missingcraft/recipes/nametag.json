@@ -1,16 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "  S",
-        " # ",
-        "#  "
+        "  #",
+        " _ ",
+        "_  "
     ],
     "key": {
-        "#": { "item": "minecraft:paper" },
-        "S": { "item": "minecraft:string" }
+        "_": { "item": "minecraft:paper" },
+        "#": { "item": "minecraft:string" }
     },
     "result": {
-        "item": "minecraft:nametag",
+        "item": "minecraft:name_tag",
         "count": 1
     }
 }

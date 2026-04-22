@@ -1,12 +1,12 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "GGG",
-        "GAG",
-        "GGG"
+        "###",
+        "#A#",
+        "###"
     ],
     "key": {
-        "G": { "item": "minecraft:gold_block" },
+        "#": { "item": "minecraft:gold_block" },
         "A": { "item": "minecraft:apple" }
     },
     "result": {

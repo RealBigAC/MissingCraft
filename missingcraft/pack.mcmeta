@@ -2,6 +2,12 @@
     "pack": {
         "min_format": 101,
         "max_format": 101,
-        "description": "Making uncraftable items craftable"
+        "description": "Making uncraftable items craftable, and adding some new recipes to improve the early game experience."
+    },
+    "filter": {
+        "block": [{
+            "namespace": "minecraft",
+            "path": "recipe/bone_meal_from_bone_block.json"
+        }]
     }
 }

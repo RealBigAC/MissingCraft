@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#N#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:iron_chain",
+    "N": "minecraft:nether_star"
+  },
+  "result": {
+    "id": "minecraft:spawner"
+  }
+}
